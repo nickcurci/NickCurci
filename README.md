@@ -21,7 +21,6 @@
 
 ### My Stats
 ![](https://github-readme-stats.vercel.app/api?username=nickcurci&theme=synthwave&show_icons=true&count_private=true)
-### My Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nickcurci&theme=synthwave)
 ### My Projects
 
