@@ -1,5 +1,11 @@
 ### Hi there, world 👋
-#### My name is Nick Curci and I am excited to welcome you to my page! Here you will find current and past projects ranging from machine learning, python development and automation, and social media trend analysis all the way to GIS projects and ArcPro tools.
+#### My name is Nick Curci and I am excited to welcome you to my page! 
+###### Here you will find current and past projects ranging from:
+- machine learning, 
+- python development and automation, 
+- robotics using AI, 
+- social media trend analysis,
+- GIS projects and ArcPro tools.
 
 
 ### I'm still working on this readME, so bearwithME
