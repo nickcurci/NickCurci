@@ -1,6 +1,6 @@
-### Hi there, world 👋
+## Hi there, world 👋
 #### My name is Nick Curci and I am excited to welcome you to my page! 
-###### Here you will find current and past projects ranging from:
+##### Here you will find current and past projects ranging from:
 - machine learning, 
 - python development and automation, 
 - robotics using AI, 
