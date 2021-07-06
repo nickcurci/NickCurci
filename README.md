@@ -20,9 +20,9 @@
 - ⚡ Fun fact: I'm a washed up NCAA Division 1 Pole Vaulter 
 
 ### My Stats
-![](https://github-readme-stats.vercel.app/api?username=nickcurci&theme=synthwave&show_icons=true&count_private=true “Nick’s GutHub Stats”)
+![Nick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nickcurci&theme=synthwave&show_icons=true&count_private=true “Nick’s GutHub Stats”)
 ### My Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nickcurci&theme=synthwave “Nick’s Top Languages Card”)
+![Nick's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nickcurci&theme=synthwave “Nick’s Top Languages Card”)
 ### My Projects
 
 ![](https://img.shields.io/badge/<Left>-<Right>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
