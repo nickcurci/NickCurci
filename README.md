@@ -20,7 +20,7 @@
 - ⚡ Fun fact: I'm a washed up NCAA Division 1 Pole Vaulter 
 
 ### My Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<nickcurci>&theme=<THEME_NAME>" />
+![Nick’s GitHub stats](https://github-readme-stats.vercel.app/api?username=nickcurci&theme=synthwave&show_icons=true&count_private=true “Nick’s GutHub Stats”)
 
 ### My Projects
 
