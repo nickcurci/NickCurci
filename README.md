@@ -21,7 +21,6 @@
 
 
 ### My Resume
-![](https://imgur.com/a/MluG3Ok)
 ![alt text](https://github.com/nickcurci/NickCurci/blob/main/resume.jpg?raw=true)
 
 ### My Stats
