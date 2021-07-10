@@ -21,7 +21,7 @@
 
 
 ### My Resume
-<img src="https://imgur.com/a/MluG3Ok"/>
+<img src="https://imgur.com/a/MluG3Ok">
 
 
 ### My Stats
