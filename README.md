@@ -21,7 +21,7 @@
 
 
 ### My Resume
-![alt text](https://github.com/nickcurci/NickCurci/blob/main/resume.jpg?raw=true)
+![alt text](https://github.com/nickcurci/Resume/blob/main/Screen%20Shot%202021-11-17%20at%208.25.06%20PM.png?raw=True)
 
 ### My Stats
 ![](https://github-readme-stats.vercel.app/api?username=nickcurci&theme=synthwave&show_icons=true&count_private=true)
